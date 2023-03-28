@@ -20,12 +20,11 @@ CUSTOM = {
     "defaultLanguage": "en",
     "languages": [
         ("en", "English"),
-        ("fr", "French"),
-        ("de", "German"),
+        ("fr", "French")
     ],
     # Logos paths
-    "right_cover_logo": "templates/report/images/nc3_logo.svg",
-    "left_cover_logo": "templates/report/images/lhc_logo.svg",
+    "right_cover_logo": "templates/report/images/cyber-wheel-infographic.png",
+    "left_cover_logo": "templates/report/images/CGI_logo_color_rgb.svg",
     # Custom CSS:
     "survey_css": "survey/css/style.css",
     # Minimal score

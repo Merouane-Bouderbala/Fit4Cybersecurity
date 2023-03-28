@@ -18,7 +18,7 @@ class Migration(migrations.Migration):
             model_name="surveyuser",
             name="choosen_lang",
             field=models.CharField(
-                choices=[("en", "English"), ("fr", "Français"), ("de", "Deutsch")],
+                choices=[("en", "English"), ("fr", "Français")],
                 default="en",
                 max_length=2,
             ),
@@ -27,7 +27,7 @@ class Migration(migrations.Migration):
             model_name="translationkey",
             name="lang",
             field=models.CharField(
-                choices=[("en", "English"), ("fr", "Français"), ("de", "Deutsch")],
+                choices=[("en", "English"), ("fr", "Français")],
                 default="en",
                 max_length=2,
             ),

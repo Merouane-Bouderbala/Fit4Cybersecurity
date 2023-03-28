@@ -24,9 +24,13 @@ static/admin/
 static/users/
 static/bootstrap_datepicker_plus/
 csskp/config_prod.py
-csskp/config.py
+# csskp/config.py
 
 *.mo
 
 !docker/postgres/data/.gitkeep
 docker/postgres/data/*
+
+fit4africa/
+fit4contract/
+fit4ehealth/

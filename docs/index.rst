@@ -44,7 +44,7 @@ Fit4Cybersecurity is licensed under
 `GNU Affero General Public License version 3 <https://www.gnu.org/licenses/agpl-3.0.html>`_.
 
 
-* Copyright (C) 2018-2023 Luxembourg House of Cybersecurity
+* Copyright (C) 2018-2023 CGI Cybersecurity
 
 For more information: https://github.com/NC3-LU/Fit4Cybersecurity
 

@@ -1,12 +1,10 @@
 [tool.poetry]
 name = "csskp"
 version = "1.0.1"
-description = "Fit4Cybersecurity is a self-assessment tool by NC3-LU."
+description = "Fit4Cybersecurity is a self-assessment tool by CGI."
 authors = [
-    "Fabien Mathey <fabien.mathey@cases.lu>",
-    "Ruslan Baidan <ruslan.baidan@nc3.lu>",
-    "Cédric Bonhomme <cedric@cedricbonhomme.org>",
-    "Juan Rocha <juan.rocha@nc3.lu>"
+    "Bouderbala, Merouane M <merouane.bouderbala@cgi.com>",
+    "Jung, Yoone Julia <juliayoone.jung@cgi.com>"
 ]
 license = "AGPL-3.0-or-later"
 

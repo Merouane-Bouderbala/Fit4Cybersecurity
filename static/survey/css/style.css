@@ -23,13 +23,18 @@ body {
   /* Set the fixed height of the footer here */
   /* height: 60px; */
   line-height: 40px; /* Vertically center the text there */
-  background-color: #006FBA;
+  background: linear-gradient(to right, #E31937 0%, #5236AB 100%);
 }
 .footer a{
     color: #FFFFFF;
 }
 .flag {
   width: 35px !important;
+}
+.dropdown {
+    height: 1px;    
+    background: linear-gradient(9deg, #e31937 2%, #a82465 44%, #5236ab 84%);
+    margin-bottom: 30px;
 }
 #ie-warning {
     display: none;
@@ -70,4 +75,24 @@ body {
 @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
     #ie-warning { display:block; }
     #content-body { display: none; }
+}
+
+.btn-primary {
+    color: #fff;
+    background: linear-gradient(to right, #E31937 0%, #5236AB 100%);
+    text-align: center;
+    font-weight: bold;
+    border: 0px;
+}
+
+.btn-link {
+    color: #5236ab;
+}
+
+.btn-link:hover{
+    color: #5236ab;
+}
+
+.progress-bar {
+    background-color: #5236AB;
 }

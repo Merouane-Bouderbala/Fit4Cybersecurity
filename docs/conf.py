@@ -14,8 +14,8 @@
 # -- Project information -----------------------------------------------------
 
 project = "Fit4Cybersecurity"
-copyright = "Luxembourg House of Cybersecurity <opensource@nc3.lu>"
-author = "NC3 team"
+copyright = "CGI Cybersecurity <juliayoone.jung@cgi.com> <merouane.bouderbala@cgi.com>"
+author = "CGI CyberSecurity team"
 
 # The full version, including alpha/beta/rc tags
 release = "2.1.0"
